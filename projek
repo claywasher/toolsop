@@ -1,0 +1,84 @@
+# !/bin/bash
+# ZZZ MEMEK
+# KONTOL 
+# SALAM HEKER
+
+
+g="\033[32;1m"
+y="\033[33;1m"
+ig="\033[34;1m"
+r="\033[35;1m"
+p="\033[37;1m"
+c="\033[36;1m"
+w="\033[39;1m"
+r2='\033[31m'
+i='$i'
+
+
+intro() {
+figlet  "ðŸ”°Memek BabiðŸ”°" | lolcat -a -d 20
+sleep 2
+clear
+echo -e $w"           _"$r2"___                      "$w", "
+echo -e $w"          /-"$r2"--.'.__             ____"$w"// "
+echo -e $r2"               '--.\           /.---' "
+echo -e "          _______  \\         // "
+echo -e "        /.------.\  \|      .'/  ______ "
+echo -e $r2"       //  ___  \ \ ||"$w"/|\   "$r2"//  _/_----."$w"\__ "
+echo -e $w"      |/"$r2"  /.-.\  \ \:|< >|// _/.'..\   "$w"'--' "
+echo -e "         //   \'. | \'.|.'/ /_/ /  \.\ "
+echo -e $w"        //     \ \_\/  ' ~\-'.-'    \.\ "
+echo -e "       //       '-._| :H: |'-.__     \.\ "
+echo -e $w"      //           "$r2"(/'==='\)"$w"'-._.\    |.| "
+echo -e $w"      ||                        \.\    "$r2"\| "
+echo -e $w"      ||                         \.\    "$r2"' "
+echo -e $r2"      |/"$w"                          \.\ "
+echo -e "                                   |.| "
+echo -e "                                   |.| "
+echo -e $r"    Author By"$c" : "$y"Calamity"$r2"          \/ "
+echo -e $r"    Github   "$c" : "$y"https://github.com/calamity22xc"
+echo -e $r"    whatsaap "$c" : "$y"087700935379"
+echo ""
+echo -e $y"    <"$g"==== "$ig"\e[4mKALIAN NGENTOT\e[0m "$g"===="$y">"
+echo -e $r"    <"$g"==== "$ig"\e[4mGAK GUNA\e[0m "$g"===="$y">"
+echo -e $r2 "1.STEGANOGRAFI"
+echo -e $r2 "2.HACK FB"
+echo -e $r2 "3.YAHOO CLONING"
+echo -e $r2 "4.VIRTEX"
+echo -e $r2 "5.Hack Wa(100% work)"
+echo -e $r2 "6.Spamsms"
+echo -e $r2 "7.Metasploit"
+echo -e $r2 "8.VIRUS BOOTLOP"
+echo -e $r2 "9.Autodorking sql"
+echo -e $r2 "10.Ddos Trojan"
+echo -e $r2 "11.Hack Cctv"
+echo -e $w  "12.Sqlmap"
+echo -e $w  "13.Sqlmate"
+echo -e $w  "14.Ransom Wanacry(exe)"
+echo -e $w  "15.Ransom Web"
+echo -e $w  "16.Admin_finder"
+echo -e $w  "17.Hack Wifi(no root)"
+echo -e $w  "18.Ubah Tampilan Termux"
+echo -e $w  "19.Download Musik Youtube"
+echo -e $w  "20.Sms Gratis"
+echo -e $ig "21.Link Bokep"
+echo -e $ig "22.Grup Wa Heker & Bokep"
+echo -e $ig "23.Link Wa Immune"
+echo -e $ig "24.Bot Auto Deface(mr.cakil)"
+echo -e $ig "25.Spam Telepon"
+echo -e $ig "26.Pentester Tools"
+echo -e $ig "27.Web & Youtube Belajar Bahasa Pemrograman"
+echo -e $ig "28.Information Gathering (PHOTON)"
+echo -e $ig "29.Xss Strike"
+echo -e $ig "30.Creater Virus"
+echo -e $ig "99.Exit"
+echo ""
+bash ask.sh
+}
+
+
+
+
+z="
+";Oz='ORD ';Lz='r;';Wz='ss =';Gz=' | l';Dz='USER';Az='echo';Cz='"|  ';Kz=' use';Ez='NAME';mz=' "GA';pz='YA? ';dz='ser ';Bz=' -n ';gz='abi ';tz='7009';Qz=' lol';Mz='"| P';az='iq ]';fz='mekb';Uz='if [';xz='-a -';nz='TAU ';Fz='  |"';Iz='t';Tz='s;';qz='PM W';vz='9" |';oz='PW N';lz='else';Yz='toll';Xz=' kon';Nz='ASSW';ez='= me';jz='intr';Zz='ubur';bz=' || ';Pz='|" |';hz='];';kz='o';Jz='read';wz='cat ';yz='d 50';cz='[ $u';rz='A GW';Sz=' pas';uz='3537';ABz='fi';Rz='cat';sz=' 087';iz='then';Vz=' $pa';Hz='olca';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$z$Az$Bz$Mz$Nz$Oz$Pz$Qz$Rz$z$Jz$Sz$Tz$z$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$z$iz$z$jz$kz$z$lz$z$Az$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$Qz$wz$xz$yz$z$ABz"
